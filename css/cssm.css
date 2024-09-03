@@ -1,0 +1,23 @@
+.card-body {
+    width: 40em;
+}
+h5 {
+    text-align: center;
+    top: -8px;
+}
+
+.btn{
+   left: 34px;
+}
+
+.btn {
+    position: absolute;
+    left: 141px;
+}
+.card-text{
+     
+        position: absolute;
+        top: -7px;
+        right: 197px;
+    
+}
